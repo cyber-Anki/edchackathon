@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" fill="#0A0C0F"/>
+  <!-- Lower-triangular causal grid mark -->
+  <g stroke="#4E8C82" stroke-width="0.75" opacity="0.9">
+    <line x1="4" y1="28" x2="4" y2="28"/>
+    <path d="M4 28 H8 V24 H4 Z"/>
+    <path d="M4 28 H12 V20 H4 Z" fill="none"/>
+    <path d="M4 28 H16 V16 H4 Z"/>
+    <path d="M4 28 H20 V12 H4 Z"/>
+    <path d="M4 28 H24 V8 H4 Z"/>
+    <path d="M4 28 H28 V4 H4 Z"/>
+    <line x1="4" y1="28" x2="28" y2="28"/>
+    <line x1="4" y1="28" x2="4" y2="4"/>
+    <line x1="8" y1="28" x2="8" y2="24"/>
+    <line x1="12" y1="28" x2="12" y2="20"/>
+    <line x1="16" y1="28" x2="16" y2="16"/>
+    <line x1="20" y1="28" x2="20" y2="12"/>
+    <line x1="24" y1="28" x2="24" y2="8"/>
+    <line x1="4" y1="24" x2="8" y2="24"/>
+    <line x1="4" y1="20" x2="12" y2="20"/>
+    <line x1="4" y1="16" x2="16" y2="16"/>
+    <line x1="4" y1="12" x2="20" y2="12"/>
+    <line x1="4" y1="8" x2="24" y2="8"/>
+  </g>
+</svg>
